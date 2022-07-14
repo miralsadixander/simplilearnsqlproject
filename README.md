@@ -1,0 +1,2 @@
+# simplilearnsqlproject
+Repo for projects
